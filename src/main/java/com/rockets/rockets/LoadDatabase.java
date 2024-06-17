@@ -1,4 +1,4 @@
-package payroll;
+package com.rockets.rockets;
 
 import com.rockets.rockets.entities.Country;
 import com.rockets.rockets.repositories.CountryRepository;
